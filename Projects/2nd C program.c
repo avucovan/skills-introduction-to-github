@@ -3,7 +3,7 @@ main ()
 {
 FILE *fp;
 char ch;
-fp = fopen("hello.txt", "w");
+fp = fopen("hello.txt", "a");
 printf ("Enter data:\n");
 while ((ch = getchar()) != EOF) {
     putc (ch,fp);
