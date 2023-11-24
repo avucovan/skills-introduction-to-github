@@ -1,1 +1,3 @@
-This is the first file I'm creating in C.
+This is the second day of working on this file.
+This is appending #1 to the hello.txt file.
+This is appending #2 to the hello.txt file.
