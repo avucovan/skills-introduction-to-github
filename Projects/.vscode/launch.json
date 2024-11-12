@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/adrian/Documents/Visual Studio Code/skills-introduction-to-github/Projects",
+      "program": "/Users/adrian/Documents/Visual Studio Code/skills-introduction-to-github/Projects/build/Debug/outDebug"
+    }
+  ]
+}
