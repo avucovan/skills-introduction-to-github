@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-main ()
+int main ()
 {
     char topping[24];
     int slices;
