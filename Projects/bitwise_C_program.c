@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-main ()
+int main ()
 {
     char x = 0b00000101;
     char a = 0b00001101;
